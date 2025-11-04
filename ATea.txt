@@ -1,4 +1,4 @@
 {
-  "NAME": [[[ "Xu So Dieu Ky", "Thanh Pho Hoan My"]], [[ "International Server", "Aries City" ]]],
-  "IP": [[[ "112.213.85.102" ], []], [[]]]
+  "NAME": [[[ "Danh Sach Thanh Pho", "Thanh Pho Blue", "Thanh Pho Ao"]], [[ "International Server", "Aries City" ]]],
+  "IP": [[[ "157.66.101.93", "157.66.101.93" ], []], [[]]]
 }
