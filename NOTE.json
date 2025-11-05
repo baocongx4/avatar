@@ -1,0 +1,20 @@
+{ ghi chú 1 }
+res.jar là bản mod autofish+autofarm+thutim
+Link thông báo tại bF.class, 
+Link main tại eQ.class,
+- Dấu hiệu nhận biết:
+bF.class -> .open
+eQ.class -> ValueOf, concat 
+--------
+{ ghi chú 2 }
+--------
+{ ghi chú 3 }
+--------
+{ ghi chú 4 }
+--------
+{ ghi chú 5 }
+--------
+{ ghi chú 6 }
+--------
+{ ghi chú 7 }
+--------

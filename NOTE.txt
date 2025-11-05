@@ -1,2 +1,0 @@
-res.jar là bản mod autofish+autofarm+thutim
-res.jar sửa link thông báo, sửa link main
