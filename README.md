@@ -1,2 +1,2 @@
-# AvatarKhangDZ
-Server AvatarKhangDZ
+# Avatar
+Server AvatarTeaMobi
