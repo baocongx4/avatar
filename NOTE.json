@@ -1,5 +1,5 @@
 { ghi chú 1 }
-res.jar = build6.jar
+res.jar = build6.jar + build6_gd
 res.jar là bản mod autofish+autofarm+thutim
 Link thông báo tại bF.class, 
 Link main tại eQ.class,
@@ -8,6 +8,12 @@ bF.class -> .open
 eQ.class -> ValueOf, concat 
 --------
 { ghi chú 2 }
+host.jar là bản mod full chức năng
+host.jar có thể thấy id vật phẩm
+Link main tại aA.class
+Dấu hiệu nhận biết:
+aA.class -> sửa concat thứ 3
+const-string v0, "https://"
 --------
 { ghi chú 3 }
 --------
