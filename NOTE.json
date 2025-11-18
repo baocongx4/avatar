@@ -13,9 +13,15 @@ host.jar có thể thấy id vật phẩm
 Link main tại aA.class
 Dấu hiệu nhận biết:
 aA.class -> sửa concat thứ 3
-const-string v0, "https://"
+const-string v0, "https://baocongx4.github.io/avatar/"
 --------
 { ghi chú 3 }
+avatar360.jar là bản mod lậu
++ Auto Login, Auto Farm, Auto Câu Cá
++ Không bán cá, không thu tim
+Sửa Link tổng tại RB.class
+- Dấu hiệu nhận biết:
+RB.class -> open, concat, ValueOf
 --------
 { ghi chú 4 }
 --------
