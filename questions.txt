@@ -1,4 +1,4 @@
-Táo|Apple
+Táo|Appleddddd
 Chuối|Banana
 Cam|Orange
 Dâu|Strawberry
@@ -97,4 +97,5 @@ Ghế|Chair
 Nhà|House
 Cửa sổ|Window
 Cửa|Door
+
 Điện thoại|Phone
