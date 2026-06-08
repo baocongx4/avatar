@@ -4,7 +4,11 @@ res.jar là bản mod autofish+autofarm+thutim
 Link thông báo tại bF.class, 
 Link main tại eQ.class,
 - Dấu hiệu nhận biết:
-bF.class -> .open
+bF.class -> 
+Connector;->open(
+.method public final run
+:try_start_7
+
 eQ.class -> ValueOf, concat 
 --------
 { ghi chú 2 }
